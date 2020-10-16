@@ -30,7 +30,7 @@ public class XiaolinLine implements LineDrawer {
             float intersectX = x1 + gradient;
             g2d.pixelSetColor(Color.BLACK);
             g2d.setPixel(x1, y1); // первая точка
-            for (int i = x1; i < x2; i++) {
+            for (int i = y1; i < y2; i++) {
                 g2d.pixelSetColor(new Color(0, 0, 0, (int) (255 - fractional(intersectX) * 255))); //Меняем прозрачность
                 g2d.setPixel((int) intersectX, i);
                 g2d.pixelSetColor(new Color(0, 0, 0, (int) (fractional(intersectX) * 255)));

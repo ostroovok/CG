@@ -8,6 +8,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.LinkedList;
 
+// ПЕЧАТАЕТ НА НЕКСТ ПИКСЕЛЬ
+
 public class GraphicFrame extends Frame {
 
     private int width = 1000;

@@ -1,7 +1,5 @@
 package Taske3Sem;
 
-//import com.vgu.cs.course2.group11.yakovlev_n_je.algorithms.Wu;
-
 import Taske3Sem.XiaolineLine.XiaolinLine;
 
 import javax.swing.*;
@@ -14,8 +12,8 @@ import java.util.LinkedList;
 
 public class GraphicFrame extends Frame {
 
-    private int width = 1000;//this.getWidth(); // ширина панели для графа
-    private int height = 1000;//this.getHeight(); // высота панели для графа
+    private int width = 1000;
+    private int height = 1000;
 
     private JPanel contentPane;
     private JLabel label;

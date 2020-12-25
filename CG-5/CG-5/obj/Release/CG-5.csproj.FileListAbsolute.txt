@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\CG-5\CG-5\bin\Release\CG-5.exe.config
+C:\Users\admin\source\repos\CG-5\CG-5\bin\Release\CG-5.exe
+C:\Users\admin\source\repos\CG-5\CG-5\bin\Release\CG-5.pdb
+C:\Users\admin\source\repos\CG-5\CG-5\obj\Release\CG-5.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CG-5\CG-5\obj\Release\CG_5.Form2.resources
+C:\Users\admin\source\repos\CG-5\CG-5\obj\Release\CG-5.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CG-5\CG-5\obj\Release\CG-5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CG-5\CG-5\obj\Release\CG-5.exe
+C:\Users\admin\source\repos\CG-5\CG-5\obj\Release\CG-5.pdb
